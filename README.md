@@ -23,7 +23,8 @@ Exemplo de Workflow: Assistente de Sugestão de Acompanhamentos
 Aqui está um exemplo na linguagem ASL, onde o assistente sugere acompanhamentos e faz recomendações com base no pedido do usuário.
 
 json
-Copiar código
+
+
 {
   "Comment": "Modelo de Assistente de Sugestão de Acompanhamentos com base no pedido",
   "StartAt": "RecebePedido",
